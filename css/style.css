@@ -195,11 +195,13 @@ footer {
 
 #copyright {
   text-align:center;  
+  color:white;
 }
     
 #user_data {
   position:absolute;
   right:12px;
+  color:white;
 }
 
 
